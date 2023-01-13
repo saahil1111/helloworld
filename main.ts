@@ -95,3 +95,5 @@ basic.showLeds(`
     . . . . .
     # . . . #
     `)
+basic.showString("HI")
+basic.showString("->")
